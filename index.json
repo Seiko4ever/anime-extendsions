@@ -12,7 +12,7 @@
     ],
     "nsfw": false,
     "icon": "https://nyaa.si/static/favicon.png",
-    "update": "https://raw.githubusercontent.com/ReWelp/HayasexShiru-Extensions/main/hayase/index.json",
+    "update": "https://raw.githubusercontent.com/Seiko4ever/anime-extendsions/refs/heads/main/index.json",
     "code": "https://raw.githubusercontent.com/vebb374/hayase-extensions/refs/heads/main/nyaasi.js"
   },
   {
@@ -28,7 +28,7 @@
     ],
     "nsfw": true,
     "icon": "https://sukebei.nyaa.si/static/favicon.png",
-    "update": "https://raw.githubusercontent.com/ReWelp/HayasexShiru-Extensions/main/hayase/index.json",
+    "update": "https://raw.githubusercontent.com/Seiko4ever/anime-extendsions/refs/heads/main/index.json",
     "code": "https://raw.githubusercontent.com/vebb374/hayase-extensions/refs/heads/main/sukebei-nyaa.js"
   }
 ]
